@@ -1,0 +1,10 @@
+side tasks for php: 
+
+	build own java scrip for count down (dont use the one from nicepage as it has extra shit i dont trust)
+	link the sql database using relationship between the clients table and the guest table (use one table for all guests with uniq slug to clients)
+	understand how the downloaded font works so we can organize files in folders
+	extra ux to show the clients % of opend links and attendance (pi chart)
+	build a templet for the main page and link them all together 
+	build a few different templets for invites 
+	find the correct templet for sql so we can work on the same code without many changes 
+	form submit for extra feedback from guest to clients (long text) 
